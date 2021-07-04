@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seongjae%20Moon&fontSize=90)
-
 <h1 align="center">Hi, I'm Moon</h1>
 <h3 align="center">Web fullstack developer</h3>
 <h3 align="center">Python & Javascript special list</h3>
