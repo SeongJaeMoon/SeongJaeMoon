@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently working on [IMPACTUS](https://impactus.kr/)
 
-- 🌱 I’m currently learning **Node.js and Typescript**
-
-- 📝 I regularly write articles on [https://seongjaemoon.github.io/](https://seongjaemoon.github.io)
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
